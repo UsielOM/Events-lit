@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/UsielOM/Events-lit/issues"
   },
-  "homepage": "https://github.com/UsielOM/Events-lit#readme"
+  "homepage": "https://github.com/UsielOM/Events-lit#readme",
+  "dependencies": {
+    "lit-element": "^3.2.2"
+  }
 }
