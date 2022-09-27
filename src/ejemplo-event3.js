@@ -14,7 +14,7 @@ export class EjemploEvent3 extends LitElement {
     }
     render() {
         return html `
-        <div @click="${this.clickHandler}">
+        <div @click="${this._clickHandler}">
             <button>Item 1</button>
             <button>Item 2</button>
             <button>Item 3</button>
